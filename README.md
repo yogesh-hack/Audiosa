@@ -1,22 +1,14 @@
-# Free Tailwind landing page template
+# Welcome to Open Source Audiosa - A online music web player
 
-![Simple TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/96160974-f93aa780-0f16-11eb-9ce4-81d94b216be6.png)
+![Preview](https://github.com/Next-Tech-Innovation/Audiosa/assets/83384315/45a864c6-143d-40a4-acd6-a6b15c0ba2fd)
 
-**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more. 
-Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+**Audiosa** is your one-stop destination for streaming your favorite music, creating playlists, and enjoying an immersive music experience like never before. With a vast library of songs at your fingertips, Audiosa brings the world of music to your browser.
+
+Created and maintained with ❤️ by [Yogesh](https://www.github.com/yogesh-hack).
 
 ## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
-
-## Simple Pro
-
-[![Simple Pro](https://user-images.githubusercontent.com/2683512/151178282-fd81b300-349a-42c3-a30a-f70f6e711e74.png)](https://cruip.com/)
-
-## Design files
-
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3HOZMpf
+Check the live demo here 👉️ [https://wwww.audiosa.vercel.app](https://www.audiosa.vercel.app)
 
 ## Table of contents
 
@@ -51,28 +43,22 @@ npm run build
 ```
 
 #### Customize configuration
-See [Configuration Reference](https://vitejs.dev/guide/).
+See [Configuration Reference]().
 
 ### Support notes
 We are shipping our templates with a very basic React configuration to let you quickly get into the development process, but we don't discourage you from using any other configuration or framework built on the top of React. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
 
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
 
 ## Credits
 
-- [Nucleo](https://nucleoapp.com/)
+- [Spotify](https://spotify.com/)
 
 ## Terms and License
 
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2020 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
+- Copyright 2020 [Audiosa](https://Audiosa.vercel.app/).
 - Attribution is not required, although it is really appreciated.
 
 ## About Us
 
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
+We're an Indian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
 
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Cruip_com), or you can subscribe to our monthly [newsletter](https://cruip.com/#subscribe).
