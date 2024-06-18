@@ -54,7 +54,7 @@ const MusicDashboard = () => {
   useEffect(() => {
     // Replace with your Spotify API credentials
     const clientId = '4cc8a0203d75418c889e0afabd81fb0b';
-    const redirectUri = 'http://localhost:5173/audiosaplayer'; // Your redirect URI
+    const redirectUri = 'https://audiosa-swart.vercel.app/audiosaplayer'; // Your redirect URI
     const scopes = ['user-library-read', 'playlist-read-private'];
 
     // Check if the URL contains the access token
